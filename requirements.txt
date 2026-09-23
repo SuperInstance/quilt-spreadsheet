@@ -1,0 +1,2 @@
+# quilt-spreadsheet has zero external dependencies.
+# Pure stdlib Python — runs anywhere Python 3.8+ runs.
